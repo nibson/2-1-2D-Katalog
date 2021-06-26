@@ -1,0 +1,18 @@
+{
+    "status": "ERROR",
+    "execMode": "LOCAL",
+    "nodeName": "PrepareDenseScene_1",
+    "nodeType": "PrepareDenseScene",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_prepareDenseScene  --input \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/StructureFromMotion/2559ab4a063506b7b97494ebcc53033563202566/sfm.abc\" --outputFileType exr --saveMetadata True --saveMatricesTxtFiles False --evCorrection False --verboseLevel info --output \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/PrepareDenseScene/2cbd795336d4a6f0936fbeba98d87e7436577a59\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2021-06-21 18:23:24.896846",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "DESKTOP-I18HVCT",
+    "sessionUid": "d4152b4c-d2ac-11eb-b9fd-b5da841a758a",
+    "returnCode": 3221226505,
+    "elapsedTimeStr": "0:00:00"
+}

@@ -1,0 +1,18 @@
+Program called with the following parameters:
+ * featuresFolders =  = [C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureExtraction/96163bd94f77e466e381ec783207519e29af2694]
+ * input = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c/cameraInit.sfm"
+ * matchingMode = "a/a" (default)
+ * maxDescriptors = 500
+ * method =  Unknown Type "enum EImageMatchingMethod"
+ * minNbImages = 200
+ * nbMatches = 50
+ * nbNeighbors = 50 (default)
+ * output = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt"
+ * outputCombinedSfM = "" (default)
+ * tree = "C:\Users\Nick Lötters\Downloads\Meshroom-2021.1.0-win64 (1)\Meshroom-2021.1.0\aliceVision\share\aliceVision\vlfeat_K80L3.SIFT.tree"
+ * verboseLevel = "info"
+ * weights = ""
+
+[18:23:19.773394][info] Use EXHAUSTIVE method.
+[18:23:19.773394][info] Number of selected image pairs: 10
+[18:23:19.773394][info] pairList exported in: C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt

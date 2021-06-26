@@ -1,0 +1,15 @@
+Program called with the following parameters:
+ * evCorrection = 0
+ * input = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/StructureFromMotion/2559ab4a063506b7b97494ebcc53033563202566/sfm.abc"
+ * output = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/PrepareDenseScene/2cbd795336d4a6f0936fbeba98d87e7436577a59"
+ * outputFileType = "exr"
+ * rangeSize = 40
+ * rangeStart = 0
+ * saveMatricesTxtFiles = 0
+ * saveMetadata = 1
+ * verboseLevel = "info"
+
+Exporting Scene Undistorted Images
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[18:23:24.980622][info] Median Camera Exposure: 5.78577e-39, Median EV: 127.023

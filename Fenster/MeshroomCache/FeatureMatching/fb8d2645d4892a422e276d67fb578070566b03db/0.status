@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c/cameraInit.sfm\" --featuresFolders \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureExtraction/96163bd94f77e466e381ec783207519e29af2694\" --imagePairsList \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt\" --describerTypes sift --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --geometricError 0.0 --knownPosesGeometricErrorMax 5.0 --maxMatches 0 --savePutativeMatches False --crossMatching False --guidedMatching False --matchFromKnownCameraPoses False --exportDebugFiles False --verboseLevel info --output \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureMatching/fb8d2645d4892a422e276d67fb578070566b03db\" --rangeStart 0 --rangeSize 20",
+    "env": null,
+    "startDateTime": "2021-06-21 18:23:19.842210",
+    "endDateTime": "2021-06-21 18:23:23.326897",
+    "elapsedTime": 3.4846866130828857,
+    "hostname": "DESKTOP-I18HVCT",
+    "sessionUid": "d4152b4c-d2ac-11eb-b9fd-b5da841a758a",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:03.484687"
+}

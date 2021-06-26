@@ -1,0 +1,63 @@
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "C:/Users/Nick L�tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c/cameraInit.sfm"
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "C:/Users/Nick L�tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureExtraction/96163bd94f77e466e381ec783207519e29af2694"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel =  Unknown Type "enum aliceVision::system::EVerboseLevel"
+
+[18:23:15.191639][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    GeForce GTX 1650 Ti
+	- compute capability:      7.5
+	- total device memory:     4096 MB 
+	- device memory available: 3317 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   1024
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        16
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+0
+[18:23:15.380136][info] Supported CUDA-Enabled GPU detected.
+[18:23:15.380136][info] Job max memory consumption for one image: 384 MB
+[18:23:15.380136][info] Memory information: 
+	- Total RAM:     15.7477 GB
+	- Free RAM:      8.05437 GB
+	- Available RAM: 8.05437 GB
+	- Total swap:    131072 GB
+	- Free swap:     131039 GB
+[18:23:15.380136][info] Max number of threads regarding memory usage: 19
+[18:23:15.380136][info] # threads for extraction: 5
+[18:23:15.444962][info] Extracting sift features from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-19.jpg' [cpu]
+[18:23:15.447954][info] Extracting sift features from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-17.jpg' [cpu]
+[18:23:15.448951][info] Extracting sift features from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-19 (2).jpg' [cpu]
+[18:23:15.460920][info] Extracting sift features from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-18.jpg' [cpu]
+[18:23:15.478872][info] Extracting sift features from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-16.jpg' [cpu]
+[18:23:19.256776][info]       20000 sift features extracted from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-19 (2).jpg'
+[18:23:19.383436][info]       16592 sift features extracted from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-17.jpg'
+[18:23:19.389421][info]       16529 sift features extracted from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-16.jpg'
+[18:23:19.414353][info]       17781 sift features extracted from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-18.jpg'
+[18:23:19.422334][info]       16509 sift features extracted from view 'C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/photo_2021-06-21_18-14-19.jpg'
+[18:23:19.424328][info] Task done in (s): 4.044000

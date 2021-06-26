@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "CameraInit_1",
+    "nodeType": "CameraInit",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_cameraInit  --sensorDatabase \"C:\\Users\\Nick L\u00f6tters\\Downloads\\Meshroom-2021.1.0-win64 (1)\\Meshroom-2021.1.0\\aliceVision\\share\\aliceVision\\cameraSensors.db\" --defaultFieldOfView 45.0 --groupCameraFallback folder --allowedCameraModels pinhole,radial1,radial3,brown,fisheye4,fisheye1 --useInternalWhiteBalance True --viewIdMethod metadata --verboseLevel info --output \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c/cameraInit.sfm\" --allowSingleView 1 --input \"C:/Users/Nick L\u00f6tters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c//viewpoints.sfm\"",
+    "env": null,
+    "startDateTime": "2021-06-21 18:23:13.896483",
+    "endDateTime": "2021-06-21 18:23:14.081988",
+    "elapsedTime": 0.18550539016723633,
+    "hostname": "DESKTOP-I18HVCT",
+    "sessionUid": "d4152b4c-d2ac-11eb-b9fd-b5da841a758a",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.185505"
+}

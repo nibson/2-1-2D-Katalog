@@ -1,0 +1,79 @@
+Program called with the following parameters:
+ * crossMatching = 0
+ * describerTypes = "sift"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureExtraction/96163bd94f77e466e381ec783207519e29af2694]
+ * geometricError = 0
+ * geometricEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList =  = [C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt]
+ * input = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/CameraInit/4b0d87f65a6c3f67558a50c2d0f515b6350a5f4c/cameraInit.sfm"
+ * knownPosesGeometricErrorMax = 5
+ * matchFilePerImage = 0 (default)
+ * matchFromKnownCameraPoses = 0
+ * maxIteration = 2048
+ * maxMatches = 0
+ * output = "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/FeatureMatching/fb8d2645d4892a422e276d67fb578070566b03db"
+ * photometricMatchingMethod = "ANN_L2"
+ * randomSeed = 5489 (default)
+ * rangeSize = 20
+ * rangeStart = 0
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+[18:23:19.963892][info] Load pair list from file: C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt
+[18:23:19.963892][info] loadPairs: image pair (721361860, 1130459444) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (721361860, 1419766208) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (721361860, 1505028417) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (721361860, 1559093695) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1130459444, 1419766208) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1130459444, 1505028417) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1130459444, 1559093695) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1419766208, 1505028417) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1419766208, 1559093695) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] loadPairs: image pair (1505028417, 1559093695) added. File: "C:/Users/Nick Lötters/Documents/2 1_2D/Bibliothek/Fenster/MeshroomCache/ImageMatching/5e7da6aca67439dfc4af3d3c96e792f0ee82496a/imageMatches.txt".
+[18:23:19.964882][info] Number of pairs: 10
+[18:23:19.964882][info] There are 5 views and 10 image pairs.
+[18:23:19.964882][info] Load features and descriptors
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[18:23:19.987822][info] Supported CUDA-Enabled GPU detected.
+***************************************************
+[18:23:20.189291][info] Putative matches (unknown poses): 10 image pairs.
+[18:23:20.189291][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[18:23:22.449244][info] 10 putative image pair matches
+[18:23:22.450240][info] 	- image pair (721361860, 1130459444) contains 149 putative matches.
+[18:23:22.450240][info] 	- image pair (721361860, 1419766208) contains 135 putative matches.
+[18:23:22.450240][info] 	- image pair (721361860, 1505028417) contains 186 putative matches.
+[18:23:22.450240][info] 	- image pair (721361860, 1559093695) contains 444 putative matches.
+[18:23:22.450240][info] 	- image pair (1130459444, 1419766208) contains 1022 putative matches.
+[18:23:22.450240][info] 	- image pair (1130459444, 1505028417) contains 184 putative matches.
+[18:23:22.450240][info] 	- image pair (1130459444, 1559093695) contains 128 putative matches.
+[18:23:22.450240][info] 	- image pair (1419766208, 1505028417) contains 158 putative matches.
+[18:23:22.450240][info] 	- image pair (1419766208, 1559093695) contains 122 putative matches.
+[18:23:22.450240][info] 	- image pair (1505028417, 1559093695) contains 194 putative matches.
+[18:23:22.450240][info] Task (Regions Matching) done in (s): 2.260000
+[18:23:22.450240][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[18:23:22.653695][info] 3 geometric image pair matches:
+[18:23:22.653695][info] 	- image pair (721361860, 1559093695) contains 341 geometric matches.
+[18:23:22.653695][info] 	- image pair (1130459444, 1419766208) contains 629 geometric matches.
+[18:23:22.653695][info] 	- image pair (1505028417, 1559093695) contains 64 geometric matches.
+[18:23:22.653695][info] Grid filtering
+[18:23:22.654698][info] After grid filtering:
+[18:23:22.654698][info] 	- image pair (721361860, 1559093695) contains 341 geometric matches.
+[18:23:22.654698][info] 	- image pair (1130459444, 1419766208) contains 629 geometric matches.
+[18:23:22.654698][info] 	- image pair (1505028417, 1559093695) contains 64 geometric matches.
+[18:23:22.654698][info] Save geometric matches.
+[18:23:22.657686][info] Task done in (s): 0.207000

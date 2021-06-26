@@ -1,0 +1,169 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\96163bd94f77e466e381ec783207519e29af2694"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\fb8d2645d4892a422e276d67fb578070566b03db"
+    ],
+    "views": [
+        {
+            "viewId": "721361860",
+            "poseId": "721361860",
+            "intrinsicId": "346326688",
+            "path": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster\/photo_2021-06-21_18-14-19 (2).jpg",
+            "width": "960",
+            "height": "1280",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "in",
+                "XResolution": "96",
+                "YResolution": "96",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1130459444",
+            "poseId": "1130459444",
+            "intrinsicId": "346326688",
+            "path": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster\/photo_2021-06-21_18-14-18.jpg",
+            "width": "960",
+            "height": "1280",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "in",
+                "XResolution": "96",
+                "YResolution": "96",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1419766208",
+            "poseId": "1419766208",
+            "intrinsicId": "346326688",
+            "path": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster\/photo_2021-06-21_18-14-19.jpg",
+            "width": "960",
+            "height": "1280",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "in",
+                "XResolution": "96",
+                "YResolution": "96",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1505028417",
+            "poseId": "1505028417",
+            "intrinsicId": "346326688",
+            "path": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster\/photo_2021-06-21_18-14-16.jpg",
+            "width": "960",
+            "height": "1280",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "in",
+                "XResolution": "96",
+                "YResolution": "96",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1559093695",
+            "poseId": "1559093695",
+            "intrinsicId": "346326688",
+            "path": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster\/photo_2021-06-21_18-14-17.jpg",
+            "width": "960",
+            "height": "1280",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "in",
+                "XResolution": "96",
+                "YResolution": "96",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "346326688",
+            "width": "960",
+            "height": "1280",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75",
+            "serialNumber": "C:\/Users\/Nick Lötters\/Documents\/2 1_2D\/Bibliothek\/Fenster",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1545.0966799187809",
+            "principalPoint": [
+                "480",
+                "640"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "721361860",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99996354403930021",
+                        "0.0051949718418478567",
+                        "-0.0067766407551784593",
+                        "-0.0052405352436579039",
+                        "0.99996366663635983",
+                        "-0.0067232579548114129",
+                        "0.0067414674012648895",
+                        "0.0067585260766947876",
+                        "0.99995443643325477"
+                    ],
+                    "center": [
+                        "0.0088425499731118531",
+                        "0.0067619396082155255",
+                        "-0.0090401257275586813"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1559093695",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.9928522357740478",
+                        "-0.11511498406107537",
+                        "-0.031511559198060202",
+                        "0.075595397707774847",
+                        "0.8108616163335195",
+                        "-0.58033505408720187",
+                        "0.09235677432586005",
+                        "0.57380482709856184",
+                        "0.81376793168231421"
+                    ],
+                    "center": [
+                        "0.33577419267193065",
+                        "0.89838568589289514",
+                        "-0.20385093803301788"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}
